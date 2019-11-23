@@ -1,0 +1,8 @@
+export const RECEIVE_GOODS = 'receive_goods'
+export const RECEIVE_RATINGS = 'receive_ratings'
+export const RECEIVE_SELLER = 'receive_seller'
+export const INCREMENT_COUNT = 'increment_count'
+export const DECREMENT_COUNT = 'decrement_count'
+export const CLEAR_CART = 'clear_cart'
+export const GET_USERINFO = 'get_userinfo'
+export const RECORD_USERINFO = 'record_userinfo'
